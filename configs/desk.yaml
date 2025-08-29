@@ -3,4 +3,4 @@ train: images/train
 val: images/val
 
 # class list
-names: [box, phone, mug, game-controller, bottle, pen]
+names: [box, calculator, book, bottle, headphones, mouse]
